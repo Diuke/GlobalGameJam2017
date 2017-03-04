@@ -1,0 +1,56 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M    (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+    Driver:   10.18.13.5887
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\juan-\Desktop\GGJ\Dj waver\DJWaver_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.112187 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.596434 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 479.
+Total: 0.994725 ms (FindLiveObjects: 0.022665 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.195438 ms  DeleteObjects: 0.760370 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bf8 -> priority: 1 
+  Thread -> id: 806c -> priority: 1 
+9735
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.654739 ms
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 3.340840 ms (FindLiveObjects: 0.038916 ms CreateObjectMapping: 0.014967 ms MarkObjects: 0.277120 ms  DeleteObjects: 3.008979 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.887811 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.239914 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.011119 ms MarkObjects: 0.192444 ms  DeleteObjects: 0.010263 ms)
+
+Asdfa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
